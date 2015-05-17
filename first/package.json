@@ -1,0 +1,16 @@
+{
+  "name": "select-line",
+  "version": "1.0.0",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "split": "^0.3.3"
+  },
+  "description": "selects a random line of a file to stdout",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Panuto <thepanuto@gmail.com>",
+  "license": "MIT"
+}
