@@ -1,5 +1,5 @@
-# The second Problem
-
+# Spelling checker
+ 
 This problem was pretty fun. It's a basic spelling checker. You can find more information on the problem here: http://www.puzzlenode.com/puzzles/3-spelling-suggestions.
 
 ## So, show me what you've done.
