@@ -4,7 +4,6 @@
   "private": true,
   "version": "1.0.0",
   "dependencies": {
-    "split": "^0.3.3",
-    "through2": "^0.6.5"
+    "split": "^0.3.3"
   }
 }
